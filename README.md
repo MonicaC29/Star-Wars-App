@@ -16,10 +16,6 @@ This project is a simple web application built with React and Next.js that allow
 
 2. Open your web browser and navigate to `http://localhost:3000` to view the application.
 
-## Deployment
-
-This project is deployed using Vercel. You can view the live version 
-
 ## Features
 
 - View a list of Star Wars films.
