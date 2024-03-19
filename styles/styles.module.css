@@ -1,0 +1,123 @@
+/* styles/styles.css */
+
+/* Container styling for the main content */
+.container {
+  max-width: 800px;
+  padding: 30px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #e8d4f5;
+  border: solid 3px black;
+}
+
+/* Reset styling for the unordered list */
+.ul {
+  list-style: none;
+  padding: 0;
+}
+
+/* Styling for list items */
+.li {
+  margin-bottom: 10px;
+}
+
+/* Base styling for the body of the document */
+.body {
+  font-family: "Arial", sans-serif;
+  background-color: #f5f5f5;
+  margin: 0;
+  padding: 0;
+}
+
+/* Additional styling for film details in FilmDetails component */
+.FilmDetails {
+  background-color: #e8d4f5;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  color: #7f6793;
+  border: solid 2px black;
+}
+/* styles/header.css */
+
+.header {
+  background-color: #d0b7e7;
+  padding: 20px;
+  border-radius: 10px;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  font-size: 45px;
+  height: auto;
+  border: solid 3px black;
+}
+
+.heading {
+  color: #fbf7f9;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-style: oblique;
+  text-align: justify;
+}
+
+.listItem {
+  margin-bottom: 10px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  font-size: 16px;
+}
+
+.link {
+  color: #050505;
+  transition: color 0.3s ease;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+
+.link:hover {
+  color: #a56ed8;
+}
+
+/* Styling for the title */
+.title {
+  font-size: 40px;
+  text-align: center;
+  margin: 5px;
+  padding: 20px;
+}
+
+.backButton {
+  background-color: #a387c2;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: solid 1px #050505;
+  text-decoration: none;
+  margin-top: 30px;
+  transition: background-color 0.3s ease;
+}
+
+.backButton:hover {
+  background-color: #a56ed8;
+}
+
+.logo {
+  height: auto;
+  width: 500px;
+  margin: auto;
+}
+
+.container1 {
+  max-width: 800px;
+  padding: 30px;
+  box-shadow: 0 0 30px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  background-color: #d0b7e7;
+  border: solid 3px black;
+}
