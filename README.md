@@ -2,6 +2,9 @@
 
 This project is a simple web application built with React and Next.js that allows users to view information about Star Wars films. Users can see a list of films and click on each film to view its details.
 
+# GitHub
+https://github.com/MonicaC29/Star-Wars-App.git
+
 ## Installation
 
 1. Clone the repository to your local machine:
