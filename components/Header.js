@@ -6,7 +6,7 @@ const Header = () => {
     <header className={styles.header}>
       <div>
         <div className={styles.title}>~~~ Star Wars ~~~</div>
-        <img src="/starWars.png" alt="Star Wars Logo" className={styles.logo} />
+        <image src="/starWars.png" alt="Star Wars Logo" className={styles.logo} />
       </div>
     </header>
   );
